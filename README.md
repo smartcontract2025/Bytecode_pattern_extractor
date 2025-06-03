@@ -39,9 +39,7 @@ Output Format
 Generated graphs follow this JSON structure:
 ```
 {
-
   "nodes": ["block_1", "block_2", ...],
-  
   "edges": [[0, 1], [1, 2], ...],
   "target_nodes": [3, 5, ...]
 }
