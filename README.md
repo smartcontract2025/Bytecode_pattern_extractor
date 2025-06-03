@@ -1,6 +1,6 @@
 # Smart Contract Bytecode Graph Constructor and expert pattern extrctor
 
-A tool for constructing graphs from smart contract bytecode (opcodes) and annotating nodes using specially designed expert patterns. The expert rules follow and extend the approaches based on source code from:
+A tool for constructing graphs from smart contract bytecode (opcodes) and annotating nodes using specially designed expert patterns. The designed expert rules follow and extend the source code based approaches from:
 
 1. [**IJCAI 2021**] [Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion](https://arxiv.org/abs/2106.09282)  
 2. [**TKDE 2021**] [Combining Graph Neural Networks with Expert Knowledge for Smart Contract Vulnerability Detection](https://arxiv.org/abs/2107.11598)
