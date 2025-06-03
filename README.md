@@ -37,15 +37,13 @@ Detects potential unbounded loops through jump analysis
 
 Output Format
 Generated graphs follow this JSON structure:
-
+```
 {
 
   "nodes": ["block_1", "block_2", ...],
   
   "edges": [[0, 1], [1, 2], ...],
-  
   "target_nodes": [3, 5, ...]
-  
 }
-
-更多细节请参阅我们的论文原文和代码...
+```
+For more details please see our paper and code...
